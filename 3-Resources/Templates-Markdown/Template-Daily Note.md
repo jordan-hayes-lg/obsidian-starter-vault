@@ -67,6 +67,3 @@ SORT file.mtime DESC
 
 # Important Meetings
 
-
-# Tasos Meeting
-
